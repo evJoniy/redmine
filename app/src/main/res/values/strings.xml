@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Redmine</string>
+    <string name="password">Password</string>
+    <string name="computools">Computools</string>
+    <string name="redmine">Redmine</string>
+    <string name="login">Login</string>
+</resources>
